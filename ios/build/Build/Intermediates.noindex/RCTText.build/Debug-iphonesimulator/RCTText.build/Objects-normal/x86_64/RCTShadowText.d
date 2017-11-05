@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/risatoyoshima/iOSAppProjects/Guardica/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h
