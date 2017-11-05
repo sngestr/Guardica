@@ -5,12 +5,11 @@ export default class ListeningScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>I am in the ListeningScreen.js</Text>
+        <Text>I am in the Alert.js</Text>
       </View>
     );
   }
 }
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,

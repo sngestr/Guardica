@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83355C2605E2D6DDD6109A00D7EC2973AD559E1B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "83355C2605E2D6DDD6109A00D7EC2973AD559E1B" : 9223372036854775807,
+    "E16F79F6E4C8390041F79F3CEC3DB31282C3C35D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F92818DD-2CBE-4A2C-9BCE-629EC3118354",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "83355C2605E2D6DDD6109A00D7EC2973AD559E1B" : "Guardica\/",
+    "E16F79F6E4C8390041F79F3CEC3DB31282C3C35D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Guardica",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/Guardica.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/songesu\/Guardica.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83355C2605E2D6DDD6109A00D7EC2973AD559E1B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/songesu\/FeeLess.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E16F79F6E4C8390041F79F3CEC3DB31282C3C35D"
+    }
+  ]
+}
