@@ -5,7 +5,7 @@ export default class SpeakerVertificationScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>I am in the SpeakerVertificationScreen.js</Text>
+        <Text>I am in the SpeakerVertificationScreen.js lol</Text>
       </View>
     );
   }
