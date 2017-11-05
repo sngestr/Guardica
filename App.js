@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, Button, AppRegistry } from 'react-native';
 import { StackNavigator } from 'react-navigation';
 import ListeningScreen from './screens/ListeningScreen';
 import AlertScreen from './screens/AlertScreen';
+
 export default class App extends React.Component {
   //The navigation options must be defined in every screen that is in your app
   static navigationOptions = {
@@ -44,6 +45,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
 //setting up the navigation routes
 const myScreens = StackNavigator({
   Home: {             //Home is the route and it will point to the screen of App which is the class file (above)
